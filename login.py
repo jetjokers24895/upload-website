@@ -4,7 +4,9 @@ from pprint import pprint
 
 import requests
 
-from var import env
+from var import env, path
+
+import upload_api as api
 
 
 def write_file(text):
@@ -33,7 +35,9 @@ try:
 
     r1 = s.post(env.login,  data=data)
 
-    r2 = s.get(env.upload)
+    #upload
+    
+    
 
 except Exception as e:
     print("######EXCEPTION#####")
