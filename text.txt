@@ -1,0 +1,1305 @@
+<!DOCTYPE html>
+<html>
+    <head>
+                    <title>Vectorpng.com - Free Vector - PSD - IMG - File Ads - Vectorpng.com</title>
+        
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge"> <!-- † -->
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="csrf-token" content="QyQsfFjouXd74E4LEt0l1J2HqUxplEnnS3d3OKS2">
+        
+        
+        
+        <meta name="robots" content="index,follow">
+        <meta name="googlebot" content="index,follow">
+
+        
+        <link rel="stylesheet" href="/themes/default/assets/app.css" />
+        <!--link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-material-design/0.5.10/css/bootstrap-material-design.css">
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-material-design/0.5.10/css/ripples.min.css"-->
+
+            <style>
+        body{
+            background:#f1f1f1;
+        }
+    </style>
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+                <style>.pagination-outter,.pagination{display:none}</style>
+	<style type="text/css">
+
+		
+		.btn.btn-color, input[type="submit"]{
+			background:#ee222e !important;
+			color:#fff;
+			border-radius:0px;
+		}
+
+		h1.title{
+			color:#ee222e !important;
+		}
+
+		h2 i{
+			color:#ee222e;
+		}
+
+		.btn-color:hover{
+			color:#fff;
+		}
+
+		.btn.btn-radio {
+			background: #ff3642;
+			color:#fff;
+		}
+
+		.btn.btn-radio.active {
+			background:#ee222e;
+			color:#fff;
+		}
+
+		#nprogress .bar {
+			background:#ee222e;
+		}
+
+		#nprogress .spinner-icon {
+			border-top-color:#ee222e;
+			border-left-color:#ee222e;
+		}
+		#nprogress .peg {
+			box-shadow: 0 0 10px #ee222e, 0 0 5px #ee222e;
+		}
+
+		.nav .caret, .nav>li>a, .navbar .navbar-nav>.active>a, .nav a:hover .caret{
+			color:#ee222e;
+			border-top-color:#ee222e;
+			border-bottom-color:#ee222e;
+		}
+
+		.navbar-nav>li>a.upload-btn, .navbar-inverse .navbar-nav>li>a:hover
+		{
+			background:#ee222e;
+		}
+
+		.active .nav-border-bottom{
+			background:#ee222e;
+		}
+
+		.form-control:focus{
+			border-color:#ee222e;
+		}
+
+		a.spcl-button.color {
+			background-color:#ee222e;
+		}
+
+		.dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus{
+			background:#ee222e;
+		}
+
+		ul.tags li a{
+			background:#ee222e;
+		}
+
+		div.tagsinput span.tag{
+			border:1px solid #ee222e;
+			color:#fff;
+			background:#ff3642;
+		}
+
+		.table-striped>tbody>tr:first-child>th{
+			background:#ee222e;
+			border:0px;
+			color:#fff;
+		}
+
+		.table-striped>tbody>tr:first-child{
+			border:0px;
+		}
+		.table-striped>tbody>tr:nth-child(2)>td{
+			border-top-color:#ff5460;
+		}
+
+		.pagination>li>a{
+			background:#bc0000;
+		}
+
+		.pagination>li>span, .pagination>.active>span, .pagination>li>a:hover, .pagination>.active>span:hover{
+			background:#ff5460;
+		}
+
+		.pagination>li>span:hover, .pagination>.disabled>span{
+			background:#ff8692;
+			color:#bc0000;
+		}
+
+		.pagination>li>a, .pagination>li>span, .pagination>.disabled>span, .pagination>.disabled>a, .pagination>.disabled>a:hover, .pagination>.disabled>a:focus, .pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus{
+			border:1px solid #ee222e;
+		}
+
+		div.tagsinput span.tag a{
+			color:#bc0000;
+		}
+
+		a.spcl-button.color:hover {
+			background-color:#ff3642;
+			color:#fff;
+		}
+
+		.btn.btn-prev:hover, .btn.btn-next:hover{
+			background:#ee222e;
+		}
+
+		.admin-block.active, .admin-block:hover{
+			border-color:#ee222e;
+		}
+
+		h2.subheader{
+			border-color:#bc0000;
+			background:#ee222e;
+		}
+
+		.ouro:after {
+			background-color:#ee222e;
+		}
+
+		.ouro {
+			background-color:#ff5460;
+		}
+
+		h2.subheader i{
+			color:#bc0000;
+		}
+
+		.load-more-btn{
+			border-bottom-color:#bc0000;
+		}
+	</style>
+
+
+
+        
+        <link rel="icon" href="/storage/https://drive.google.com/a/myschool.host/uc?id=1zlrM0Gh2YkumRaSp7q4vzu_kdLxFMxLy&amp;export=media" type="image/x-icon">
+        <link rel="shortcut icon" href="/storage/https://drive.google.com/a/myschool.host/uc?id=1zlrM0Gh2YkumRaSp7q4vzu_kdLxFMxLy&amp;export=media" type="image/x-icon">
+        
+    </head>
+    <body class="dark  upload list">
+        <nav class="navbar navbar-fixed-top" role="navigation">
+            <div class="container">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="sr-only">Toggle Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand logo" href="/">
+                        <img src="/storage/https://drive.google.com/a/myschool.host/uc?id=1B5azO0x6vY1JfodPX_DI2TaMjTut3mtE&amp;export=media" class="logo-dark" />
+                        <img src="/storage/themes/September2017/light-logo.png" class="logo-light" />
+                    </a>
+                    
+                    <div class="mobile-menu-toggle"><i class="fa fa-bars"></i></div>
+                    <!-- MOBILE NAV -->
+                    <div class="mobile-menu">
+                                                                            
+                            <a href="http://vectorpng.com/user/admin" class="usr-avatar"><img src="/storage/users/default.png?version=5c4400ea64b5f" alt="admin" class="img-circle user-avatar-large"></a>
+                            <a href="http://vectorpng.com/user/admin" class="username"><h2>admin</h2></a>
+                            <p class="points"><i class="fa fa-star" style="color:gold"></i> 36 points</p>
+                            <div id="avatar-bg"></div>
+                        
+                        <ul class="nav navbar-nav">
+
+
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com" target="_self" style="" >
+            <i class="fa fa-home"></i>
+            <span>Home</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="dropdown">
+        <a href="http://vectorpng.com/#_" target="_self" style="" class="dropdown-toggle" data-toggle="dropdown">
+            <i class="fa fa-star"></i>
+            <span>Popular</span>
+            <span class="caret"></span>
+        </a>
+                <ul class="dropdown-menu">
+
+
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/popular/week" target="_self" style="" >
+            <i class=""></i>
+            <span>for the Week</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/popular/month" target="_self" style="" >
+            <i class=""></i>
+            <span>for the Month</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/popular/year" target="_self" style="" >
+            <i class=""></i>
+            <span>for the Year</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/popular" target="_self" style="" >
+            <i class=""></i>
+            <span>All Time</span>
+            
+        </a>
+            </li>
+
+</ul>
+            </li>
+    
+    
+    <li class="dropdown">
+        <a href="http://vectorpng.com/#_" target="_self" style="" class="dropdown-toggle" data-toggle="dropdown">
+            <i class="fa fa-list"></i>
+            <span>Categories</span>
+            <span class="caret"></span>
+        </a>
+                <ul class="dropdown-menu">
+
+
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/category/animals" target="_self" style="" >
+            <i class=""></i>
+            <span>Animals</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/category/architecture" target="_self" style="" >
+            <i class=""></i>
+            <span>Architecture</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/category/cartoon" target="_self" style="" >
+            <i class=""></i>
+            <span>Cartoon</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/category/comedy" target="_self" style="" >
+            <i class=""></i>
+            <span>Comedy</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/category/comics" target="_self" style="" >
+            <i class=""></i>
+            <span>Comics</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/category/family" target="_self" style="" >
+            <i class=""></i>
+            <span>Family</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/category/film" target="_self" style="" >
+            <i class=""></i>
+            <span>Film</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/category/food" target="_self" style="" >
+            <i class=""></i>
+            <span>Food</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/category/music" target="_self" style="" >
+            <i class=""></i>
+            <span>Music</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/category/news" target="_self" style="" >
+            <i class=""></i>
+            <span>News</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/category/retro" target="_self" style="" >
+            <i class=""></i>
+            <span>Retro</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/category/sports" target="_self" style="" >
+            <i class=""></i>
+            <span>Sports</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/category/uncategorized" target="_self" style="" >
+            <i class=""></i>
+            <span>Uncategorized</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/category/vehicles" target="_self" style="" >
+            <i class=""></i>
+            <span>Vehicles</span>
+            
+        </a>
+            </li>
+
+</ul>
+            </li>
+    
+    
+    <li class="dropdown">
+        <a href="#_" target="_self" style="" class="dropdown-toggle" data-toggle="dropdown">
+            <i class="fa fa-diamond"></i>
+            <span>More</span>
+            <span class="caret"></span>
+        </a>
+                <ul class="dropdown-menu">
+
+
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/page/contact" target="_self" style="" >
+            <i class=""></i>
+            <span>Contact</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/leaderboard" target="_self" style="" >
+            <i class="voyager-star"></i>
+            <span>Leaderboard</span>
+            
+        </a>
+            </li>
+
+</ul>
+            </li>
+
+</ul>
+
+
+                        <ul class="nav navbar-nav navbar-right">
+                                                                                            <li class="dropdown">
+                                    <a href="#" class="user-menu dropdown-toggle" data-toggle="dropdown"><b class="caret"></b><div id="user-info"><h4><i class="fa fa-gear"></i> Settings</h4></div> </a>
+                                    <ul class="dropdown-menu">
+                                                                                    <li><a href="http://vectorpng.com/admin" class="admin_link_mobile"><i class="fa fa-bolt"></i> Admin</a></li>
+                                                                                <li><a href="http://vectorpng.com/user/admin"><i class="fa fa-user"></i> My Profile</a></li>
+                                        <li><a href="http://vectorpng.com/logout" id="user_logout_mobile"><i class="fa fa-power-off"></i> Logout</a></li>
+                                    </ul>
+                                </li>
+                                                            <li><a href="http://vectorpng.com/upload" class="upload-btn"><i class="fa fa-cloud-upload"></i> Upload</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                
+                <div class="collapse navbar-collapse navbar-ex1-collapse">
+                    
+                    <ul class="nav navbar-nav">
+
+
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com" target="_self" style="" >
+            <i class="fa fa-home"></i>
+            <span>Home</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="dropdown">
+        <a href="http://vectorpng.com/#_" target="_self" style="" class="dropdown-toggle" data-toggle="dropdown">
+            <i class="fa fa-star"></i>
+            <span>Popular</span>
+            <span class="caret"></span>
+        </a>
+                <ul class="dropdown-menu">
+
+
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/popular/week" target="_self" style="" >
+            <i class=""></i>
+            <span>for the Week</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/popular/month" target="_self" style="" >
+            <i class=""></i>
+            <span>for the Month</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/popular/year" target="_self" style="" >
+            <i class=""></i>
+            <span>for the Year</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/popular" target="_self" style="" >
+            <i class=""></i>
+            <span>All Time</span>
+            
+        </a>
+            </li>
+
+</ul>
+            </li>
+    
+    
+    <li class="dropdown">
+        <a href="http://vectorpng.com/#_" target="_self" style="" class="dropdown-toggle" data-toggle="dropdown">
+            <i class="fa fa-list"></i>
+            <span>Categories</span>
+            <span class="caret"></span>
+        </a>
+                <ul class="dropdown-menu">
+
+
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/category/animals" target="_self" style="" >
+            <i class=""></i>
+            <span>Animals</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/category/architecture" target="_self" style="" >
+            <i class=""></i>
+            <span>Architecture</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/category/cartoon" target="_self" style="" >
+            <i class=""></i>
+            <span>Cartoon</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/category/comedy" target="_self" style="" >
+            <i class=""></i>
+            <span>Comedy</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/category/comics" target="_self" style="" >
+            <i class=""></i>
+            <span>Comics</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/category/family" target="_self" style="" >
+            <i class=""></i>
+            <span>Family</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/category/film" target="_self" style="" >
+            <i class=""></i>
+            <span>Film</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/category/food" target="_self" style="" >
+            <i class=""></i>
+            <span>Food</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/category/music" target="_self" style="" >
+            <i class=""></i>
+            <span>Music</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/category/news" target="_self" style="" >
+            <i class=""></i>
+            <span>News</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/category/retro" target="_self" style="" >
+            <i class=""></i>
+            <span>Retro</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/category/sports" target="_self" style="" >
+            <i class=""></i>
+            <span>Sports</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/category/uncategorized" target="_self" style="" >
+            <i class=""></i>
+            <span>Uncategorized</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/category/vehicles" target="_self" style="" >
+            <i class=""></i>
+            <span>Vehicles</span>
+            
+        </a>
+            </li>
+
+</ul>
+            </li>
+    
+    
+    <li class="dropdown">
+        <a href="#_" target="_self" style="" class="dropdown-toggle" data-toggle="dropdown">
+            <i class="fa fa-diamond"></i>
+            <span>More</span>
+            <span class="caret"></span>
+        </a>
+                <ul class="dropdown-menu">
+
+
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/page/contact" target="_self" style="" >
+            <i class=""></i>
+            <span>Contact</span>
+            
+        </a>
+            </li>
+    
+    
+    <li class="">
+        <a href="http://vectorpng.com/leaderboard" target="_self" style="" >
+            <i class="voyager-star"></i>
+            <span>Leaderboard</span>
+            
+        </a>
+            </li>
+
+</ul>
+            </li>
+
+</ul>
+
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="dropdown dropdownNotifi">
+                                                            <a href="#" class="dropdown-toggle readNotifi" data-toggle="dropdown">
+                                    <i class="fa fa-bell"></i>
+                                                                                                        </a>
+                                                    </li>
+                        <li><a href="http://vectorpng.com/random" class="random"><i class="fa fa-random"></i></a></li>
+                        <li><a href="http://vectorpng.com/upload" class="upload-btn upload-btn-desktop"><i class="fa fa-cloud-upload"></i> Upload</a></li>
+
+                                                                                <li class="dropdown">
+                                <a href="#" class="user-menu user-menu-desktop dropdown-toggle" data-toggle="dropdown"><img src="/storage/users/default.png" class="img-circle" /><b class="caret"></b><div id="user-info"><h4>admin</h4><p>36 Points</p></div> </a>
+                                <ul class="dropdown-menu dropdown-user-menu">
+                                                                            <li><a href="http://vectorpng.com/admin" class="admin_link_mobile"><i class="fa fa-bolt"></i> Admin</a></li>
+                                                                        <li><a href="http://vectorpng.com/user/admin" class="user-profile-link-desktop"><i class="fa fa-user"></i> My Profile</a></li>
+                                    <li><a href="http://vectorpng.com/logout" id="user_logout_desktop"><i class="fa fa-power-off"></i> Logout</a></li>
+                                </ul>
+                            </li>
+                                            </ul>
+                </div><!-- /.navbar-collapse -->
+            </div><!-- /.container -->
+        </nav>
+        
+                    <style type="text/css">
+.gallery-sub-header{
+	top:0px;
+}
+.main_home_container{
+	padding-top:0px;
+}
+</style>
+
+
+<div id="random-bar">
+	<div id="random-left"><i class="fa fa-angle-left"></i></div>
+	<div id="random-right"><i class="fa fa-angle-right"></i></div>
+	<div class="container random-container">
+		<div id="random-slider">
+								<div class="random-item" >
+						<a class="random-img" href="http://vectorpng.com/test12345" style="background-image:url(https://drive.google.com/a/myschool.host/uc?id=173Vf-T1-3lCIX9ecPtstvL5NjyG52SWk&amp;export=media); display:block; min-height:100px; background-size:cover; background-position-y:center"></a>
+					</div>
+
+								<div class="random-item" >
+						<a class="random-img" href="http://vectorpng.com/test4" style="background-image:url(https://drive.google.com/a/myschool.host/uc?id=1ttPjlvRbqk4Cz_fd-Ngr0Nh2pUQ9Zfli&amp;export=media); display:block; min-height:100px; background-size:cover; background-position-y:center"></a>
+					</div>
+
+								<div class="random-item" >
+						<a class="random-img" href="http://vectorpng.com/test3" style="background-image:url(https://drive.google.com/a/myschool.host/uc?id=1ONDrBgS21JioJjw6N4eoCA9LmTbkFDdU&amp;export=media); display:block; min-height:100px; background-size:cover; background-position-y:center"></a>
+					</div>
+
+								<div class="random-item" >
+						<a class="random-img" href="http://vectorpng.com/test-upload-2" style="background-image:url(https://drive.google.com/a/myschool.host/uc?id=1dSTzqqYQbHuRcbafkhhyFmTrHRIuqkfg&amp;export=media); display:block; min-height:100px; background-size:cover; background-position-y:center"></a>
+					</div>
+
+								<div class="random-item" >
+						<a class="random-img" href="http://vectorpng.com/test-active-1234" style="background-image:url(https://drive.google.com/a/myschool.host/uc?id=1qtRc3eTMmgugz5uqTdU01-nRA6P6n57T&amp;export=media); display:block; min-height:100px; background-size:cover; background-position-y:center"></a>
+					</div>
+
+								<div class="random-item" >
+						<a class="random-img" href="http://vectorpng.com/test-active-123" style="background-image:url(https://drive.google.com/a/myschool.host/uc?id=1Rz_UfR5sKX0ITTb6ItkFOJK7Dg4lqgW6&amp;export=media); display:block; min-height:100px; background-size:cover; background-position-y:center"></a>
+					</div>
+
+								<div class="random-item" >
+						<a class="random-img" href="http://vectorpng.com/test123456" style="background-image:url(https://drive.google.com/a/myschool.host/uc?id=1XKRBgJqH2-ma-w8Ad4USWayD_WUcvlHt&amp;export=media); display:block; min-height:100px; background-size:cover; background-position-y:center"></a>
+					</div>
+
+								<div class="random-item" >
+						<a class="random-img" href="http://vectorpng.com/bbbb" style="background-image:url(https://drive.google.com/a/myschool.host/uc?id=12lDKLJH_ZO1-xP_tmf_l69w5vylEwyAl&amp;export=media); display:block; min-height:100px; background-size:cover; background-position-y:center"></a>
+					</div>
+
+								<div class="random-item" >
+						<a class="random-img" href="http://vectorpng.com/aaaa" style="background-image:url(https://drive.google.com/a/myschool.host/uc?id=1DulsUYEjlUhuR7bu7wUVK2OWF7M1EhL6&amp;export=media); display:block; min-height:100px; background-size:cover; background-position-y:center"></a>
+					</div>
+
+								<div class="random-item" >
+						<a class="random-img" href="http://vectorpng.com/123test" style="background-image:url(https://drive.google.com/a/myschool.host/uc?id=1EFE_hEpMwD0IOLZmuwjBCvnZVp4LHpRR&amp;export=media); display:block; min-height:100px; background-size:cover; background-position-y:center"></a>
+					</div>
+
+					</div>
+	</div>
+</div>                
+        
+                
+                
+                        
+                        
+        
+<div class="container main_home_container">
+
+    <div class="col-md-8 col-lg-8 padding-left-none">
+
+        <form method="POST" action="http://vectorpng.com/post" id="post-form" accept-charset="UTF-8" file="1" enctype="multipart/form-data">
+            
+            <h2><i class="icon-cloud-upload"></i> Upload</h2>
+
+            <input type="hidden" class="form-control" name="user_id" id="user_id" value="1" />
+
+            <input type="hidden" value="" name="delete_img" id="delete_img">
+
+            <!-- Select between an image or a video
+            <div class="btn-group vid-pic" data-toggle="buttons">
+              <label class="btn btn-radio active">
+                <input type="radio" name="pic" id="pic" checked> <i class="fa fa-picture-o"></i>  Image              </label>
+              <label class="btn btn-radio vid-radio-btn">
+                <input type="radio" name="vid" id="vid"> <i class="icon-film"></i> Video              </label>
+            </div>-->
+            <input type="hidden" name="pic" id="pic" value="1">
+
+
+            <p><input name="title" class="form-control" type="text" id="title" placeholder="Title"></p>
+
+            <select name="category_id" id="category_id" class="form-control">
+                <option value="1">Select A Category</option>
+                                    <option value="2">Animals</option>
+                                    <option value="34">Architecture</option>
+                                    <option value="32">Cartoon</option>
+                                    <option value="37">Comedy</option>
+                                    <option value="31">Comics</option>
+                                    <option value="36">Family</option>
+                                    <option value="35">Film</option>
+                                    <option value="39">Food</option>
+                                    <option value="33">Music</option>
+                                    <option value="25">News</option>
+                                    <option value="40">Retro</option>
+                                    <option value="29">Sports</option>
+                                    <option value="1">Uncategorized</option>
+                                    <option value="38">Vehicles</option>
+                            </select>
+           
+            <div style="clear:both"></div>
+            <div id="img_upload">
+                <i class="fa fa-picture-o" style="font-size:50px; color:#aaa; float:left"></i>
+                <p style="margin-left:65px; margin-bottom:6px;"><input type="file" id="pic_url" name="pic_url"/></p>
+                <h4 style="margin-left:65px; padding-top:0px;">Image</h4>
+                <!--<p><input type="text" class="form-control" id="img_url" name="img_url" style="" placeholder="Image URL" /></p>-->
+            </div>
+
+            <div id="file_zip" style="padding-left:100px; background:#f1f1f1; padding:15px; margin-top:15px; margin-bottom:15px;">
+                <label for="vid_url">
+                    <i class="icon-file" style="font-size:50px; color:#aaa; float:left"></i>
+                    <p style="margin-left:65px; margin-bottom:6px; font-weight:normal; margin-top:2px;">
+                        <input type="file" id="file_zip" name="file_zip"/>
+                    </p>
+                    <h4 style="margin-left:65px; padding-top:0px; margin-top:8px;">File</h4>
+                </label>
+            </div>
+            
+            <p><textarea name="body" class="form-control" id="body" placeholder="Description (optional)"></textarea></p>
+
+            <p><input name="link_url" class="form-control" type="text" id="link_url" placeholder="Source (optional)" /></p>
+            
+            <p><input name="tags" class="form-control" id="tags" placeholder="Tags (optional)" /></p>      
+            
+            <p style="margin:10px 0">
+                <label for="nsfw">Not Safe for Work?</label>
+
+                                    <input type="checkbox" name="nsfw" class="onoffswitch-checkbox" id="nsfw">                   
+                    
+            </p>
+
+            <input type="hidden" name="_token" value="QyQsfFjouXd74E4LEt0l1J2HqUxplEnnS3d3OKS2">
+
+            <input class="btn btn-color submit-media upload" id="upload" type="submit" value="Submit">
+
+        </form>
+
+        
+    </div>
+
+    <div class="col-md-4 col-lg-4" id="sidebar_container">
+
+			<!-- OPTIONS BAR -->
+
+<div class="options_sidebar">
+
+	<h2>Viewing Options:</h2>
+
+	<div class="viewing_options">
+	  <i class="fa fa-th-list active" data-url="http://vectorpng.com/view/list"></i>
+	  <i class="fa fa-th-large " data-url="http://vectorpng.com/view/grid_large"></i>
+	  <i class="fa fa-th " data-url="http://vectorpng.com/view/grid"></i>
+
+	  <i class="fa sidebar-toggle fa-arrow-circle-right" data-url="http://vectorpng.com/view/sidebar_toggle"><span>Close Sidebar</span></i>
+	</div>
+	<div style="clear:both"></div>
+	
+</div>
+
+<!-- END OPTIONS BAR -->	
+	<div id="sidebar_inner">
+		<div id="sidebar" >
+
+			
+				<a class="spcl-button color" href="http://vectorpng.com/upload">Submit Picture or Video</a>
+
+				<div class="social_block">
+					<img src="http://vectorpng.com/themes/default/assets/img/social-loader.gif" />
+					<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fthedevdojo&amp;width&amp;height=220&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+				</div>
+
+						
+			<a href="http://codecanyon.net/item/ninja-media-script-viral-fun-media-sharing-site/6822888" target="_blank"><img src="/themes/default/assets/img/advertisement.jpg" width="302" height="252"></a>
+				
+		</div>
+	</div>
+</div>
+<div style="clear:both"></div>
+</div>
+
+                
+        <div class="auth-modal auth-effect">
+            <div class="auth-content" id="auth"></div>
+        </div>
+                
+        <div id="modal_backdrop">
+            <div class="la-ball-clip-rotate">
+                <div></div>
+            </div>
+            <div id="modal">
+                <div id="modal_close">&times;</div>
+                <div id="modal_content">
+                </div>
+            </div>
+        </div>
+                
+        <div class="auth-overlay">
+            <div class="la-ball-clip-rotate">
+                <div></div>
+            </div>
+        </div>
+
+                    <div id="notibar">
+
+                <div class="notibackground"></div>
+                <div class="notisidebar">
+                    <div class="notititlebar">
+                        <p><i class="fa fa-bell"></i> Notifications</p>
+                        <div class="noticlose">&times;</div>
+                    </div>
+
+                    <ul>
+                                                                <li class="read">
+                          <a id="33" href="/test123456">
+                            <i class="fa fa-bell"></i>
+                          </a>
+                        </li>
+                                            <li class="read">
+                          <a id="32" href="/rewr">
+                            <i class="fa fa-bell"></i>
+                          </a>
+                        </li>
+                                            <li class="read">
+                          <a id="31" href="/nintendo-bed">
+                            <i class="fa fa-bell"></i>johndoe commented on &quot;Nintendo Bed&quot;
+                          </a>
+                        </li>
+                                        </ul>
+
+                </div>
+
+            </div>
+                        
+        <div id="footer">&copy; 2019 Vectorpng.com - Free Vector - PSD - IMG - File Ads</div>
+                
+        <script type="text/javascript" src="/themes/default/assets/app.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function(){
+                $('.viewing_options i').click(function(){
+                    window.location = $(this).data('url');
+                });
+            });
+
+            $(document).ready(function(){
+                $('.option-sidebar-toggle').click(function(){
+                    $(this).toggleClass('clicked');
+                    $('.options_sidebar').slideToggle();
+                    $('.cog-arrow-down').toggle();
+                    $('.cog-arrow-up').toggle();
+                });
+                $('.fa-search').click(function(){
+                    $('.search-form').toggle();
+                    $('.search-form input').focus();
+                });
+            });
+
+            $('document').ready(function(){
+
+                $('#login-button-desktop, #signup-button-desktop').not('.login #login-button-desktop, .signup #login-button-desktop, .password-reset #login-button-desktop, .login #signup-button-desktop, .signup #signup-button-desktop, .password-reset #signup-button-desktop').click(function(event){
+                    event.preventDefault();
+                    $('.auth-overlay .la-ball-clip-rotate').show();
+                    $('.auth-overlay').addClass('auth-show');
+                    $( "#auth" ).load( $(this).attr('href') + ' .form-signin', function() {
+            
+                        $('.auth-modal').css('margin-top', -$('.form-signin').data('height')/2);
+                        $('.auth-modal').css('margin-left', -$('.form-signin').data('width')/2);
+                        $('.auth-modal').css('width', $('.form-signin').data('width'));
+                        $('.auth-modal').css('height', $('.form-signin').data('height'));
+                        $('.auth-modal').prepend('<i class="auth-overlay-close">&times;</i>');
+                        $('.auth-overlay-close').click(function(){
+                            $(this).remove();
+                            $('.auth-overlay, .auth-modal').removeClass('auth-show');
+                        });
+                        
+                        setTimeout(function(){
+                            $('.auth-modal').addClass('auth-show');
+                            $('.auth-overlay .la-ball-clip-rotate').hide();
+                            setTimeout(function(){
+                                $('.auth-modal').find("[data-focus='true']").focus();
+                            }, 100);
+                        }, 300);
+            
+                    });
+                });
+            
+                $('.auth-overlay').click(function(){
+                    $('.auth-overlay-close').remove();
+                    $('.auth-overlay, .auth-modal').removeClass('auth-show');
+                });
+                
+                $('.dropdown').hover(function(){
+                    $(this).addClass('open');
+                }, function(){
+                    $(this).removeClass('open');
+                });
+                
+                $('.dropdownNotifi').hover(function(){
+                    $(this).removeClass('open');
+                });
+                
+                $('.dropdownNotifi a').click(function(){
+                    $(this).parent().find('.dropdown-menu').toggle();
+                });
+                
+                NProgress.start();
+                var slide_pos = 1;
+                
+                $('#random-right').click(function(){
+                    if(slide_pos < 3){
+                        $('#random-slider').css('left', parseInt($('#random-slider').css('left')) - parseInt($('.random-container').width()) -28 + 'px') ;
+                        slide_pos += 1;
+                    }
+                });
+                
+                $('#random-left').click(function(){
+                    if(slide_pos > 1){
+                        $('#random-slider').css('left', parseInt($('#random-slider').css('left')) + parseInt($('.random-container').width()) +28 + 'px') ;
+                        slide_pos -= 1;
+                    }
+                });
+            });
+            
+            $(window).load(function () {
+                NProgress.done();
+            });
+
+            $(window).resize(function(){
+                jquery_sticky_footer();
+            });
+
+            $(window).bind("load", function() {
+                jquery_sticky_footer();
+            });
+            
+            function jquery_sticky_footer(){
+                var footer = $("#footer");
+                var pos = footer.position();
+                var height = $(window).height();
+                height = height - pos.top;
+                height = height - footer.outerHeight();
+            
+                if (height > 0) {
+                    footer.css({'margin-top' : height+'px'});
+                }
+            }
+
+            /********** Mobile Functionality **********/
+            var mobileSafari = '';
+            $(document).ready(function(){
+                $('.mobile-menu-toggle').click(function(){
+                    $('.mobile-menu').toggleClass('mobile-menu-visible');
+                    $('body').toggleClass('mobile-margin').toggleClass('body-relative');
+                    $('.navbar').toggleClass('mobile-margin');
+                    $('.mobile-menu').css('height', '100%');
+                });
+                // Assign a variable for the application being used
+                var nVer = navigator.appVersion;
+                // Assign a variable for the device being used
+                var nAgt = navigator.userAgent;
+                var nameOffset,verOffset,ix;
+                
+                
+                // First check to see if the platform is an iPhone or iPod
+                if(navigator.platform == 'iPhone' || navigator.platform == 'iPod'){
+                // In Safari, the true version is after "Safari"
+                    if ((verOffset=nAgt.indexOf('Safari'))!=-1) {
+                        // Set a variable to use later
+                        mobileSafari = 'Safari';
+                    }
+                }
+            
+            });
+
+            /********** End Mobile Functionality **********/
+        </script>
+
+        
+        
+            <script>
+                var infScroll = '';
+                                var cur_page = '2';
+                                var last_page = '1';
+                /********** POST LIST JS **********/
+                $('document').ready(function(){
+                    $(".timeago").timeago();
+                    
+                    $.each($('.item'), function(index, value){
+                        item_click_events($(value));
+                    });
+
+                    $('.readNotifi').click(function(){
+                        $('#notibar').fadeIn('fast', function(){
+                            $('.notisidebar').addClass('notishow');
+                            $.post('/notification', { _token: $('meta[name="csrf-token"]').attr('content') }, function(data){
+                                $('.notifications').fadeOut();
+                            });
+                        });
+                    });
+
+                    $('.notibackground, .noticlose').click(function(){
+                        $('.notisidebar').removeClass('notishow');
+                        $('#notibar').fadeOut();
+                    });
+                });
+
+                                    $(document).ready(function(){
+                        var $container = $('#posts');
+                        var no_more_posts = "No More Posts to load";
+                        var loading_more_posts = "Loading More Posts";
+                
+                                        
+                        $container.infiniteScroll({
+                        
+                            path: function() {
+                                if ( parseInt(last_page) == -1 || this.loadCount > (parseInt(last_page)+1) ) {
+                                    this.destroy();   
+                                }
+                                var nextPage = parseInt(cur_page) + (this.loadCount);
+                                                                    return 'http://vectorpng.com/upload/?page=' + nextPage;
+                                                                
+                            },
+                    
+                            prefill: false,
+                            append: '.item',
+                            status: '.page-load-status',
+                            checkLastPage: false,
+                            animate:false,
+                            scrollThreshold: 1500,
+                            history: false,
+                    
+                                                    });
+
+                        infScroll = $container.data('infiniteScroll');
+                
+                        $container.on( 'append.infiniteScroll', function( event, response, path, items ) {
+                    
+                            $.each($(items), function(index, value){
+                                item_click_events($(value));
+                            });
+                        
+                            
+                            if ( parseInt(last_page) == -1 || infScroll.loadCount > (parseInt(last_page)+1) ) {
+                                    
+                                    $('.page-load-status').show();
+                                    $('.page-load-status .infinite-scroll-request').hide();
+                                    $('.page-load-status .infinite-scroll-last').show();
+                                }
+
+                        });
+                    });
+
+
+                
+                
+                function toggle_gif(img, icon){
+                
+                    if($(img).data('state') == 0){
+                        play_gif(img, icon);
+                    } else {
+                        stop_gif(img, icon);
+                    }
+                }
+
+                function play_gif(img, icon){
+                    $(img).attr('src', $(img).data('animation'));
+                    $(img).data('state', 1);
+                    $(icon).fadeOut();
+                }
+
+                function stop_gif(img, icon){
+                    $(img).attr('src', $(img).data('original'));
+                    $(img).data('state', 0);
+                    $(icon).fadeIn();
+                }
+
+                function item_click_events(item){
+                    //if($(item).find('.video_container').length){
+                    $(item).find('.video_container').fitVids();
+                    //}
+                    item_gif_vine_events(item);
+                
+                    post_like = $(item).find('.home-post-like');
+                
+                    $(post_like).click(function(){
+                        if($(this).data('authenticated') == false){
+                            window.location = 'http://vectorpng.com/signup';
+                        }
+                
+                        this_object = $(this);
+                        $(this).children('i').removeClass('animated').removeClass('rotateIn');
+                        $(this_object).toggleClass('active');
+                
+                        var like_count = $(this_object).parent().find('.home-like-count span');
+                
+                        if($(this_object).hasClass('active')){
+                            $(this_object).children('i').addClass('animated').addClass('bounceIn');
+                            like_count.text( parseInt(like_count.text()) + 1 );
+                        } else {
+                            like_count.text( parseInt(like_count.text()) - 1 );
+                        }
+               
+                        $.post("http://vectorpng.com/post/add_like", { post_id: $(this).data('id') }, function(data){ });
+                    });
+                }
+
+                function item_gif_vine_events(object){
+                
+                    var gifs = $(object).find('.animated-gif .animation');
+                    var gif_play = $(object).find('.gif-play');
+                    gif_click(gifs);
+                    gif_click(gif_play);
+                    var vine = $(object).find('.vine-thumbnail');
+                    var vine_play = $(object).find('.vine-thumbnail-play');
+                    vine_click(vine);
+                    vine_click(vine_play);
+                }
+
+                function gif_click(object){
+                    $(object).click(function(){
+                        animated_gif = $(this).parent('.animated-gif').find('.animation');
+                        play_icon = $(this).parent('.animated-gif').find('.gif-play');
+                        toggle_gif(animated_gif, play_icon);
+                    });
+                }
+                
+                function vine_click(object){
+                    $(object).click(function(){
+                        var embed = $(this).data('embed');
+                        $(this).parent('.video_container').html('<iframe class="vine-embed" src="' + embed + '" width="100%" height="600" frameborder="0"></iframe>');
+                    });
+                }
+            </script>
+        
+        
+    <script>
+        
+        $(document).ready(function(){
+
+            $('#tags').tagsInput();
+
+            $('#img_url').keyup(function (){
+                if($(this).val() != ''){
+                    $('#pic_url').attr('disabled', 'true');
+                } else {
+                    $('#pic_url').removeAttr('disabled');
+                }
+            });
+
+            $('.vid-pic input').change(function(){
+                if($(this).attr('id') == 'pic'){
+                    $('#img_upload').show();
+                    $('.drop_container').show();
+                    $('#import-fb').show();
+                    $('.img-drop').show();
+                    $('#vid_upload').hide();
+                } else{
+                    $('#vid_upload').show();
+                    $('#img_upload').hide();
+                    $('#import-fb').hide();
+                    $('.img-drop').hide();
+                    $('.drop_container').hide();
+                }
+            });
+
+
+            $('.submit-media').click(function(){
+                $('#post-form').submit();
+            });
+        });
+
+    </script>
+
+        <!--script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-material-design/0.5.10/js/material.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-material-design/0.5.10/js/ripples.min.js"></script-->
+    </body>
+</html>
