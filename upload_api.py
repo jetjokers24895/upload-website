@@ -3,24 +3,9 @@ from var import env
 from zipfile import ZipFile
 
 
-data = {
-    "user_id": 1,
-    "delete_img": "",
-    "pic": 1,
-    "title": "",
-    "category_id": 2,
-    "pic_url": "",
-    "file_zip": "",
-    "body": "",
-    "link_url": "",
-    "tags": "",
-    "_token":  ""
-}
-
-
 def get_files(path):
     list_files = os.listdir(path)
-    return [file for file in list_files if not file in env.exclude_file]
+    return [os.path.normpath(path + '/' + file) for file in list_files if not file in env.exclude_file]
 
 
 def get_pic_file(list_files):
@@ -91,6 +76,22 @@ def make_pic_to_post(path):
     return pic_tuple
 
 
+def get_pic_name(path):
+    list_files = get_files(path)
+    pic_file = get_pic_file(list_files)
+
+    pic_name = get_name_file(pic_file)
+    return pic_name
+
+
+def get_zip_name(path):
+    list_files = get_files(path)
+    zip_file = get_zip_file(list_files)
+
+    zip_name = get_name_file(zip_file)
+    return zip_name
+
+
 def make_mimme_type(image):
     extensive = os.path.splitext(image)[1]
     extensive = extensive.replace(".", "")
@@ -102,6 +103,26 @@ def get_name_file(file):
     return shortname
 
 
+def make_data(path, _token, category_id):
+    name = get_name_from_path(path)
+    pic_name = get_pic_name(path)
+    zip_name = get_zip_name(path)
+
+    return {
+                "user_id": 1,
+                "delete_img": "",
+                "pic": 1,
+                "title": name,
+                "category_id": category_id,
+                "pic_url": pic_name,
+                "file_zip": zip_name,
+                "body": name,
+                "link_url": name,
+                "tags": "",
+                "_token":  _token
+            }
+
+
 # >>> url = 'https://httpbin.org/post'
 # >>> multiple_files = [
 #         ('images', ('foo.png', open('foo.png', 'rb'), 'image/png')),
@@ -109,12 +130,13 @@ def get_name_file(file):
 # >>> r = requests.post(url, files=multiple_files)
 # >>> r.text
 
-# try:
-#     pass
-#     listfile = get_files("./Blank-rectangle-pink-roses-frame-on-pink-and-white-background")
-#     print(get_pic_file(listfile))
-#     # create_zip_file("./Blank-rectangle-pink-roses-frame-on-pink-and-white-background")
-# except Exception as e:
-#     print("#####EXCEPTION####")
-#     print(e)
+try:
+    pass
+    # listfile = get_files("./Blank-rectangle-pink-roses-frame-on-pink-and-white-background")
+    # print(get_pic_file(listfile))
+    # create_zip_file("./Blank-rectangle-pink-roses-frame-on-pink-and-white-background")
+    # make_zip_to_post("C:\\Users\\titihacker\\Desktop\\all_ninja_media\\downloadApi\\upload-website\\download\\vectores\\Blank-rectangle-pink-roses-frame-on-pink-and-white-background")
+except Exception as e:
+    print("#####EXCEPTION####")
+    print(e)
 """user_id=1&delete_img=&pic=1&title=tesst_upload&category_id=2&pic_url=63860.jpg&file_zip=Blank-rectangle-pink-roses-frame-on-pink-and-white-background.zip&body=aaaa&link_url=aa&tags=aaaa&_token=oqnbNaAY31x1hVUmkDvceaEYgPJECKik8XKNvmyy"""

@@ -4,14 +4,33 @@ from pprint import pprint
 
 import requests
 
-from var import env, path
+from var import env, test
 
 import upload_api as api
+
+
 
 
 def write_file(text):
     with open("text.txt", "w+") as w:
         w.write(text)
+
+def prepare_to_post(path, _token, category_id):
+    #create zip _files
+    api.create_zip_file(file)
+    #make_data_to_post
+    multi_files= make_files_to_post(path)
+    #make data 
+    data = api.make_data(path, _token, category_id)
+    #post
+    return multi_files, data
+
+def make_files_to_post(path):
+    #make pic to post
+    _pic = api.make_pic_to_post(path)
+    #make zip to post
+    _zip = api.make_zip_to_post(path)
+    return [_pic, _zip]
 
 try:
     s = requests.Session()
@@ -36,8 +55,14 @@ try:
     r1 = s.post(env.login,  data=data)
 
     #upload
-    
-    
+    path = test.path_dir
+    # print(path)
+    list_files = api.get_files(path)
+    # print(list_files)
+    for file in list_files:
+        multi_files, data = prepare_to_post(path, _token, 1)
+        print(multi_files)
+        print(data)
 
 except Exception as e:
     print("######EXCEPTION#####")
