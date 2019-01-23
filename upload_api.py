@@ -66,6 +66,17 @@ def make_zip_to_post(path):
     return zip_tuple
 
 
+def make_zip_to_post_v2(path):
+    list_files = get_files(path)
+    zip_file = get_zip_file(list_files)
+    # get file_name
+    zip_name = get_name_file_with_extensive(zip_file)
+    zip_info = (zip_name, open(zip_file, "rb"), 'application/zip')
+
+    zip_tuple = {env.zip_field_name : zip_info}
+    return zip_tuple
+
+
 def make_pic_to_post(path):
     list_files = get_files(path)
     print(path)
@@ -77,6 +88,20 @@ def make_pic_to_post(path):
 
     pic_tuple = (env.image_field_name, pic_info)
     return pic_tuple
+
+
+def make_pic_to_post_v2(path):
+    list_files = get_files(path)
+    print(path)
+    pic_file = get_pic_file(list_files)
+    # get content-type
+    mimme_type = make_mimme_type(pic_file)
+    pic_name = get_name_file_with_extensive(pic_file)
+    pic_info = (pic_name, open(pic_file, "rb"), mimme_type)
+
+    pic_tuple = {env.image_field_name : pic_info}
+    return pic_tuple
+
 
 
 def get_pic_name(path):
@@ -121,8 +146,8 @@ def make_data(path, _token, category_id):
                 "pic": 1,
                 "title": "test_from_tool",
                 "category_id": category_id,
-                "pic_url": pic_name,
-                "file_zip": zip_name,
+                #"pic_url": pic_name,
+                #"file_zip": zip_name,
                 "body": "tesssssst",
                 "link_url": name,
                 "tags": "aaa",

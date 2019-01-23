@@ -41,6 +41,14 @@ def make_files_to_post(path):
     _zip = api.make_zip_to_post(path)
     return [_pic, _zip]
 
+
+def make_files_to_post_v2(path):
+    #make pic to post
+    _pic = api.make_pic_to_post_v2(path)
+    #make zip to post
+    _zip = api.make_zip_to_post_v2(path)
+    return {**_pic, **_zip}
+
 # try:
 s = requests.Session()
 
@@ -73,9 +81,11 @@ for file in list_files:
     multi_files, data_to_post = prepare_to_post(file, _token, 2)
     # print(multi_files)
     # pprint(data_to_post)
-    r = s.post(env.upload, data = data_to_post, files = multi_files)
+    # r = s.post(env.upload, data = data_to_post, files = multi_files)
+    r = requests.post("https://httpbin.org/post", files =multi_files)
     print(r.status_code)
-    # print(r.text)
+    pprint(r.headers)
+    pprint(r.text)
 
 # except Exception as e:
 #     print("######EXCEPTION#####")
