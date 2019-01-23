@@ -1,5 +1,5 @@
 import os
-from var import env
+from var import env, test
 from zipfile import ZipFile
 
 
@@ -34,19 +34,21 @@ def get_path_files(path):
     if path[-1] != "/":
         path = path + "/"
     # path = os.path.normpath(path)
-    print(path)
     file_path = []
     for root, dicrectory, files in os.walk(path):
+        root = os.path.relpath(root)
         for file in files:
-            file_path.append(root + file)
+            file_path.append(os.path.join(root, file))
     return file_path
 
+# print(get_path_files(test.path_dir))
 
 def create_zip_file(path):
     name = get_name_from_path(path)
-    path_zip_file = os.path.join(path, f"{name}.zip")
+    path_zip_file = os.path.join(path, "{0}.zip".format(name))
     list_files = get_path_files(path)
-    print(list_files)
+    # list_files = [os.path.relpath(file) for file in list_files]
+    # print(list_files)
     with ZipFile(path_zip_file, "w") as w:
         for file in list_files:
             w.write(file)
@@ -57,7 +59,7 @@ def make_zip_to_post(path):
     list_files = get_files(path)
     zip_file = get_zip_file(list_files)
     # get file_name
-    zip_name = get_name_file(zip_file)
+    zip_name = get_name_file_with_extensive(zip_file)
     zip_info = (zip_name, open(zip_file, "rb"), 'application/zip')
 
     zip_tuple = (env.zip_field_name, zip_info)
@@ -66,10 +68,11 @@ def make_zip_to_post(path):
 
 def make_pic_to_post(path):
     list_files = get_files(path)
+    print(path)
     pic_file = get_pic_file(list_files)
     # get content-type
     mimme_type = make_mimme_type(pic_file)
-    pic_name = get_name_file(pic_file)
+    pic_name = get_name_file_with_extensive(pic_file)
     pic_info = (pic_name, open(pic_file, "rb"), mimme_type)
 
     pic_tuple = (env.image_field_name, pic_info)
@@ -80,7 +83,7 @@ def get_pic_name(path):
     list_files = get_files(path)
     pic_file = get_pic_file(list_files)
 
-    pic_name = get_name_file(pic_file)
+    pic_name = get_name_file_with_extensive(pic_file)
     return pic_name
 
 
@@ -88,7 +91,7 @@ def get_zip_name(path):
     list_files = get_files(path)
     zip_file = get_zip_file(list_files)
 
-    zip_name = get_name_file(zip_file)
+    zip_name = get_name_file_with_extensive(zip_file)
     return zip_name
 
 
@@ -103,6 +106,10 @@ def get_name_file(file):
     return shortname
 
 
+def get_name_file_with_extensive(file):
+    return os.path.basename(file)
+
+
 def make_data(path, _token, category_id):
     name = get_name_from_path(path)
     pic_name = get_pic_name(path)
@@ -110,15 +117,15 @@ def make_data(path, _token, category_id):
 
     return {
                 "user_id": 1,
-                "delete_img": "",
+                # "delete_img": "",
                 "pic": 1,
-                "title": name,
+                "title": "test_from_tool",
                 "category_id": category_id,
                 "pic_url": pic_name,
                 "file_zip": zip_name,
-                "body": name,
+                "body": "tesssssst",
                 "link_url": name,
-                "tags": "",
+                "tags": "aaa",
                 "_token":  _token
             }
 
@@ -134,7 +141,7 @@ try:
     pass
     # listfile = get_files("./Blank-rectangle-pink-roses-frame-on-pink-and-white-background")
     # print(get_pic_file(listfile))
-    # create_zip_file("./Blank-rectangle-pink-roses-frame-on-pink-and-white-background")
+    # create_zip_file(os.path.join(test.path_dir, 'Blank-rectangle-pink-roses-frame-on-pink-and-white-background/'))
     # make_zip_to_post("C:\\Users\\titihacker\\Desktop\\all_ninja_media\\downloadApi\\upload-website\\download\\vectores\\Blank-rectangle-pink-roses-frame-on-pink-and-white-background")
 except Exception as e:
     print("#####EXCEPTION####")
